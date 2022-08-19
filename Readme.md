@@ -1,5 +1,5 @@
 ![Badge](https://img.shields.io/badge/Project--3-Home--Page-orange)
-# Restaurant Home Page 🍔
+# Law Home Page
 
 ### Hey, I am **Ravindra**, 
 ### This is  my 3rd live Project (non responsive)
