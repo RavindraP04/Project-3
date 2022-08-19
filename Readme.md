@@ -10,7 +10,7 @@
 
 #### ✨I got to know how to align background image with different sizes in the CSS and further I will be making this webpage responsive ✨
 
-[[Click here to view Live 🚀]](https://rp-project-2.netlify.app/)
+[[Click here to view Live 🚀]](https://rp-project-3.netlify.app/ "Law Home Page")
 
 ## Screenshot of the Project 👇
 ![](./assets/Law%20Home%20Page.png)
